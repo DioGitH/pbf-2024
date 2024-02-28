@@ -18,6 +18,24 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 
 ## Documentation
 
+### Praktikum 1
+
+#### Langkah 1
+![ss1](/docs/img/p1l1.png)
+
+#### Langkah 2
+![ss1](/docs/img/p1l2.png)
+
+#### Langkah 3
+![ss1](/docs/img/p1l3.png)
+
+#### Soal 1
+![ss1](/docs/img/p1s1.png)
+
+Terjadi error karena diperlukan pengubahan pada bagian next.config.mjs dengan menambahkan domain 'i.imgur.com' agar dapat mengoptimalkan gambar dari domain tersebut
+![sss](/docs/img/p1s1ss1.png)
+
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
