@@ -35,6 +35,20 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 Terjadi error karena diperlukan pengubahan pada bagian next.config.mjs dengan menambahkan domain 'i.imgur.com' agar dapat mengoptimalkan gambar dari domain tersebut
 ![sss](/docs/img/p1s1ss1.png)
 
+### Praktikum 2
+
+#### Langkah 1
+![ss](/docs/img/p2l1.png)
+
+#### Langkah 2
+![ss](/docs/img/p2l2.png)
+
+#### Soal 2
+![ss](/docs/img/p2s2.png)
+Tampilan nya hampir sama tetapi berubah lebih rapat karena dalam komponen gallery terdapat css columns-3 yang membuat gambar lebih rapat. Pada page.tsx akan memanggil komponen gallery yangmana pada komponen gallery tersebut memanggil komponen profile.tsx 
+
+
+
 
 ## Contact Me
 

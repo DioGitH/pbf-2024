@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Profile from "../components/profile";
+import { Gallery } from "@/components/gallery";
 
 export default function Home() {
   return (
@@ -8,9 +9,7 @@ export default function Home() {
         <h1>Ilmuwan yang luar biasa</h1>
       </div>
       <div className="flex justify-between">
-        <Profile />
-        <Profile />
-        <Profile />
+        <Gallery />
       </div>
     </main>
     
