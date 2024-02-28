@@ -138,6 +138,60 @@ export default function MyGallery() {
 ![ss](docs/img/p4s7.png)
 (Gambar tidak muncul dikarenakan kode pada bagian getimageurl masih belum fiks)
 
+#### Langkah 2
+![ss](docs/img/p4l2.png)
+
+#### Langkah 3
+![ss](docs/img/p4l3.png)
+
+***Perbaikan***
+```jsx
+import { getImageUrlV2 } from '@/utils/utils';
+
+interface Person {
+    name: string;
+    imageId: string;
+}
+
+function MyAvatar({ person, size }: {person: Person; size: number}) {
+    return (
+        <img
+            className="avatar"
+            src={getImageUrlV2(person, 'b')}
+            alt={person.name}
+            width={size}
+            height={size}
+        />
+    );
+}
+
+export default function MyProfile() {
+    return (
+        <MyAvatar
+            size={40}
+            person={{
+                name: 'Gregorio Y. Zara',
+                imageId: '7vQD0fP'
+            }}
+        />
+    );
+}
+```
+
+#### Soal 8
+![gif](docs/img/p4s8.gif)
+
+***Penjelasan Soal 8***
+
+Dengan ditambahkan nya ternary operator pada bagian getImageUrl seperti ini ``` size < 90 ? 's' : 'b'``` , maka jika size kurang dari 90, gambar akan otomatis berubah ke size 's' dan jika lebih dari 90 maka akan berubah ke size 'b', hal ini dapat terlihat dari perbedaan kerapatan pixel gambar pada saat size berada dibawah 90 maka gambar akan lebih blur dan sebaliknya. (sayangnya saya tidak bisa menunjukkan secara jelas perbedaan gambarnya karena pada saat dibuka linknya pada tab baru, website nya merespon 404, jadi saya memberikan perbandingan melalui gif)
+
+#### Langkah 9
+![ss](docs/img/p4l4.png)
+
+#### Soal 9
+![ss](docs/img/p4s9.png)
+Yang saya lakukan pada komponen Card tersebut adalah mengisi prop children dengan berbagai konten. Komponen card fleksibel terhadap isi dari konten yang di render di dalam komponen tersebut sehingga dapat dijadikan sebagai pembungkus konten lainnya.
+
 
 
 
