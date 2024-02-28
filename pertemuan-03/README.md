@@ -51,6 +51,31 @@ Tampilan nya hampir sama tetapi berubah lebih rapat karena dalam komponen galler
 ![ss](/docs/img/s3.png)
 Pertama saya membungkus elemen dengan satu tag parent agar tidak terjadi error, setelah itu saya melakukan penutupan tag pada br agar tidak terjadi error, dan yang terakhir saya mengubah tempat tag i dan b agar tidak terjadi error, semua hal tersebut saya ikuti menurut aturan JSX
 
+### Praktikum 3
+
+#### Langkah 1
+![ss](docs/img/p3l1.png)
+
+#### Soal 4
+Menambahkan person.name pada kode yang error
+
+![ss](docs/img/p3s4.png)
+
+#### Langkah 2
+![ss](docs/img/p3l2.png)
+
+#### Soal 5
+![ss](docs/img/p3s5.png)
+Tidak ada perbedaan pada tampilan web 
+
+#### Langkah 3
+![ss](docs/img/p3l3.png)
+
+#### Soal 6
+![ss](docs/img/p3s6.png)
+tampilan saat ini tetap, tetapi pada kodingan perlu ditambahkan {}, $, dan `` agar url dapat digunakan dengan cara pemanggilan tersebut. Dengan cara pemanggilan tersebut, saya dapat mengubah imageId dan imageSize menjadi lebih fleksibel tanpa harus mengubah link secara keseluruhan
+
+
 
 
 
