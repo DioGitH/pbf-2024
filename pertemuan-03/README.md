@@ -33,6 +33,7 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 ![ss1](docs/img/p1s1.png)
 
 Terjadi error karena diperlukan pengubahan pada bagian next.config.mjs dengan menambahkan domain 'i.imgur.com' agar dapat mengoptimalkan gambar dari domain tersebut
+
 ![sss](docs/img/p1s1ss1.png)
 
 ### Praktikum 2
@@ -45,10 +46,12 @@ Terjadi error karena diperlukan pengubahan pada bagian next.config.mjs dengan me
 
 #### Soal 2
 ![ss](docs/img/p2s2.png)
+
 Tampilan nya hampir sama tetapi berubah lebih rapat karena dalam komponen gallery terdapat css columns-3 yang membuat gambar lebih rapat. Pada page.tsx akan memanggil komponen gallery yangmana pada komponen gallery tersebut memanggil komponen profile.tsx 
 
 #### Soal 3
 ![ss](docs/img/s3.png)
+
 Pertama saya membungkus elemen dengan satu tag parent agar tidak terjadi error, setelah itu saya melakukan penutupan tag pada br agar tidak terjadi error, dan yang terakhir saya mengubah tempat tag i dan b agar tidak terjadi error, semua hal tersebut saya ikuti menurut aturan JSX
 
 ### Praktikum 3
@@ -73,6 +76,7 @@ Tidak ada perbedaan pada tampilan web
 
 #### Soal 6
 ![ss](docs/img/p3s6.png)
+
 tampilan saat ini tetap, tetapi pada kodingan perlu ditambahkan {}, $, dan `` agar url dapat digunakan dengan cara pemanggilan tersebut. Dengan cara pemanggilan tersebut, saya dapat mengubah imageId dan imageSize menjadi lebih fleksibel tanpa harus mengubah link secara keseluruhan
 
 ### Praktikum 4
@@ -136,6 +140,7 @@ export default function MyGallery() {
 
 ***Hasil soal 7***
 ![ss](docs/img/p4s7.png)
+
 (Gambar tidak muncul dikarenakan kode pada bagian getimageurl masih belum fiks)
 
 #### Langkah 2
@@ -190,6 +195,7 @@ Dengan ditambahkan nya ternary operator pada bagian getImageUrl seperti ini ``` 
 
 #### Soal 9
 ![ss](docs/img/p4s9.png)
+
 Yang saya lakukan pada komponen Card tersebut adalah mengisi prop children dengan berbagai konten. Komponen card fleksibel terhadap isi dari konten yang di render di dalam komponen tersebut sehingga dapat dijadikan sebagai pembungkus konten lainnya.
 
 
