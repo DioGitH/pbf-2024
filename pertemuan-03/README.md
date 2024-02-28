@@ -47,6 +47,10 @@ Terjadi error karena diperlukan pengubahan pada bagian next.config.mjs dengan me
 ![ss](/docs/img/p2s2.png)
 Tampilan nya hampir sama tetapi berubah lebih rapat karena dalam komponen gallery terdapat css columns-3 yang membuat gambar lebih rapat. Pada page.tsx akan memanggil komponen gallery yangmana pada komponen gallery tersebut memanggil komponen profile.tsx 
 
+#### Soal 3
+![ss](/docs/img/s3.png)
+Pertama saya membungkus elemen dengan satu tag parent agar tidak terjadi error, setelah itu saya melakukan penutupan tag pada br agar tidak terjadi error, dan yang terakhir saya mengubah tempat tag i dan b agar tidak terjadi error, semua hal tersebut saya ikuti menurut aturan JSX
+
 
 
 
