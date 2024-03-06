@@ -56,10 +56,28 @@ Pada praktikum tersebut parameter pada Tombol_2 diisi melalui file `page.tsx` pa
 ![ss](docs/img/p3l1.1.png)
 
 ***Hasil***
-![ss](docs/img/p1l1hasil.png)
+![ss](docs/img/p3l1hasil.gif)
 
 #### Langkah 2
 ![ss](docs/img/p3l2.png)
+
+### Praktikum 4
+
+#### Langkah 1
+![ss](docs/img/p4l1.png)
+
+![ss](docs/img/p4l1.1.png)
+
+![ss](docs/img/p4l1.2.png)
+
+***Hasil***
+![ss](docs/img/p4l1hasil.png)
+
+#### Langkah 2
+
+![ss](docs/img/p4l2hasil.gif)
+
+Dengan menggunakan useState, index dapat bertambah sesuai panjang dari `sculptureList`
 
 
 
