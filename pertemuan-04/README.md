@@ -1,4 +1,4 @@
-# Pemrograman Berbasis Framework - Pertemuan 3
+# Pemrograman Berbasis Framework - Pertemuan 4
 
 ## Introduction
 
@@ -17,6 +17,28 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 - [@DioGitH](https://www.github.com/DioGitH)
 
 ## Documentation
+
+### Praktikum 1
+
+#### Langkah 1
+![ss](docs/img/p1l1.png)
+
+![ss](docs/img/p1l1.1.png)
+
+***Hasil***
+![ss](docs/img/p1l1hasil.png)
+
+#### Langkah 2
+
+![ss](docs/img/p1l2.png)
+
+***Pesan error***
+![ss](docs/img/p1l2error.png)
+
+***Hasil***
+![ss](docs/img/p1l2hasil.png)
+
+
 
 ## Contact Me
 
