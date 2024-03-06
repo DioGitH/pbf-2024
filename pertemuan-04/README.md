@@ -38,6 +38,16 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 ***Hasil***
 ![ss](docs/img/p1l2hasil.png)
 
+### Praktikum 2
+
+![ss](docs/img/p2l1.png)
+
+***Hasil***
+![ss](docs/img/p2hasil.png)
+
+- ***Penjelasan:***
+Pada praktikum tersebut parameter pada Tombol_2 diisi melalui file `page.tsx` pada saat pemanggilan Tombol_2, pada Tombol_2 isi dari konten dapat bersifat dinamis / dapat diubah sesuai kebutuhan dengan layout Tombol_2
+
 
 
 ## Contact Me
