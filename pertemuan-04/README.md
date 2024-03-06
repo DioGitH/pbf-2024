@@ -79,6 +79,92 @@ Pada praktikum tersebut parameter pada Tombol_2 diisi melalui file `page.tsx` pa
 
 Dengan menggunakan useState, index dapat bertambah sesuai panjang dari `sculptureList`
 
+### Praktikum 5
+
+#### Langkah 1
+
+```tsx
+import { useState } from "react";
+
+export default function Form(){
+    const [jawaban, setJawaban] = useState('');
+    const [error, setError] = useState(null);
+    const [status, setStatus] = useState('typing');
+
+    if(status === 'success'){
+        return <h1>Yay...Jawaban Benar!</h1>
+    }
+
+    async function handleSubmit(e: { preventDefault: () => void; }){
+        e.preventDefault();
+        setStatus('submitting');
+        try{
+            await submitForm(jawaban);
+            setStatus('success');
+        } catch (err){
+            setStatus('typing');
+            setError(err);
+        }
+    }
+
+    function handleTextareaChange(e:any){
+        setJawaban(e.target.value);
+    }
+
+    return (
+        <>
+            <div className="w-full max-w-xs">
+                <h2>Tebak Nama Hewan</h2>
+                <p>Hewan apa yang ditakuti oleh doraemon?</p>
+                <form 
+                    className="shadow-md rounded px-8 pt-6 pb-8 mb-4 text-black border-gray-400"
+                    onSubmit={handleSubmit}>
+                    <textarea
+                        value={jawaban}
+                        onChange={handleTextareaChange}
+                        disabled={status === 'submitting'} />
+                    <br />
+                    <button 
+                        className="bg-blue-400 p-2 m-2 rounded text-sm text-white"
+                        disabled = {jawaban.length === 0 || status === 'submitting'}>
+                        Submit
+                    </button>
+                    {error !== null && <p className="Error text-red-500 text-sm">{error.message}</p>}
+                </form>
+            </div>
+        </>
+    )
+}
+
+function submitForm(jawaban:any){
+    return new Promise<void>((resolve, reject)=>{
+        setTimeout(() => {
+            let shouldError = jawaban.toLowerCase() !== 'tikus'
+            if (shouldError){
+                reject(new Error('Tebakan yang bagus tetapi jawaban salah. Silahkan coba lagi!'));
+            } else{
+                resolve();
+            }
+        }, 500);
+    })
+}
+```
+***Hasil***
+![ss](docs/img/p5l1hasil.gif)
+
+***Penjelasan***
+Ketika jawaban yang diketik salah, maka akan menampilkan pesan error karena jawaban `!== tikus`, sedangkan jika jawaban benar yaitu `tikus` maka state status akan berubah menjadi `success` dan merubah return menjadi `Yay...Jawaban Benar!`
+
+#### Langkah 2
+
+![ss](docs/img/p5l2.png)
+
+***Hasil***
+![ss](docs/img/p5l2hasil.gif)
+
+***Penjelasan***
+Pada saat nama diketik pada form, function `handleFirstNameChange` dan `handleLastNameChange` akan men-trigger `setFirstName` dan `setLastName` yang selanjutnya hasilnya akan masuk ke variabel `fullName` yang merupakan menampilkan hasil dari `firstName + lastName`
+
 
 
 ## Contact Me
