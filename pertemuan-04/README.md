@@ -165,6 +165,21 @@ Ketika jawaban yang diketik salah, maka akan menampilkan pesan error karena jawa
 ***Penjelasan***
 Pada saat nama diketik pada form, function `handleFirstNameChange` dan `handleLastNameChange` akan men-trigger `setFirstName` dan `setLastName` yang selanjutnya hasilnya akan masuk ke variabel `fullName` yang merupakan menampilkan hasil dari `firstName + lastName`
 
+### Praktikum 6
+
+#### Langkah 1
+![ss](docs/img/p6l1.png)
+
+***Hasil***
+![ss](docs/img/p6l1hasil.gif)
+
+Jika button di klik maka akan menampilkan teks sesuai dengan indexnya
+
+#### Langkah 2
+![ss](docs/img/p6l2.gif)
+
+Perbedaan sebelum ditambah `key={to.email}` terletak pada bagian rebuilding data pada komponen yang sama, sebelum ditambah `key={to.email}` terlihat data yang diisikan pada input teks tidak berubah ketika penerima berbeda, setelah ditambahkan, maka setiap ada perubahan penerima, komponen react akan menganggap data berubah meskipun di komponen yang sama 
+
 
 
 ## Contact Me
