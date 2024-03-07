@@ -1,5 +1,7 @@
 "use client";
+import Accordion from "@/components/accordion";
 import Tombol_1, { Tombol_2, Tombol_3 } from "@/components/button";
+import Messenger from "@/components/chat";
 import Form, { Form_2 } from "@/components/form";
 import Gallery from "@/components/gallery";
 
@@ -23,6 +25,10 @@ export default function Home(){
       <Form />
       <br /><br />
       <Form_2 />
+      <br /><br />
+      <Accordion/>
+      <br /><br />
+      <Messenger />
     </>
     
   );
