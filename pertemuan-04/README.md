@@ -202,6 +202,12 @@ Jika button di klik maka akan menampilkan teks sesuai dengan indexnya
 
 Perbedaan sebelum ditambah `key={to.email}` terletak pada bagian rebuilding data pada komponen yang sama, sebelum ditambah `key={to.email}` terlihat data yang diisikan pada input teks tidak berubah ketika penerima berbeda, setelah ditambahkan, maka setiap ada perubahan penerima, komponen react akan menganggap data berubah meskipun di komponen yang sama 
 
+#### Soal 1
+Agar ketika ada perubahan penerima, react akan memperbarui komponen input teks meskipun di komponen yang sama
+
+#### Soal 2
+key adalah sebuah atribut khusus yang diberikan kepada item unik di dalam daftar, tabel, atau elemen UI serupa yang merender koleksi data. key mengoptimalkan kinerja rendering dan memastikan pembaruan yang akurat pada DOM ketika item berubah atau tersusun ulang.
+
 
 
 ## Contact Me
