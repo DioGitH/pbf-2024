@@ -79,6 +79,22 @@ Pada praktikum tersebut parameter pada Tombol_2 diisi melalui file `page.tsx` pa
 
 Dengan menggunakan useState, index dapat bertambah sesuai panjang dari `sculptureList`
 
+#### Soal 1
+Terjadi error seperti berikut
+
+![ss](docs/img/p4s1.png)
+
+#### Soal 2
+Saya menambahkan `const [disabled, setDisabled] = useState(false);` agar ketika index telah mencapai panjang array dari `sculptureList` maka button akan otomatis disabled
+
+![ss](docs/img/p4s2.gif)
+
+#### Soal 3
+Saya mencoba menambahkan useEffect agar ketika index berubah maka useState dalam useEffect akan mengecek ulang kondisi di dalam useState, sehingga hasilnya seperti gif dibawah:
+
+![ss](docs/img/p4s3.gif)
+
+
 ### Praktikum 5
 
 #### Langkah 1
