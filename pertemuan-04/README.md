@@ -181,6 +181,12 @@ Ketika jawaban yang diketik salah, maka akan menampilkan pesan error karena jawa
 ***Penjelasan***
 Pada saat nama diketik pada form, function `handleFirstNameChange` dan `handleLastNameChange` akan men-trigger `setFirstName` dan `setLastName` yang selanjutnya hasilnya akan masuk ke variabel `fullName` yang merupakan menampilkan hasil dari `firstName + lastName`
 
+#### Soal 1
+Perbedaan terletak pada bagaimana `fullName` diproses. Pada Form_2 yang pertama terdapat state fullName yang akan menunggu state yang lain berubah terlebih dahulu, baru state `fullName` tersebut diproses. Sedangkan pada Form_2 yang kedua, variabel `fullName` langsung dipanggil dengan cara yang lebih singkat sehingga secara logic lebih mudah dipahami
+
+#### Soal 2
+Agar tidak terjadi redundansi yang akan menimbulkan masalah baru dan agar kode lebih mudah dipahami
+
 ### Praktikum 6
 
 #### Langkah 1
