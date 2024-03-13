@@ -64,6 +64,17 @@ Jika menggunakan konsep routing seperti praktikum 2, struktur folder menjadi kak
 #### Todo 2
 ![ss](docs/img/p3todo2.gif)
 
+### Praktikum 4
+
+#### Langkah 1
+![ss](docs/img/p4l1.png)
+
+#### Hasil
+![ss](docs/img/p4hasil.gif)
+
+#### Todo
+![ss](docs/img/p4todo.gif)
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
