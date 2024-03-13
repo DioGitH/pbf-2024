@@ -35,6 +35,21 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 #### Profile Page
 ![ss](docs/img/p1profilepage.png)
 
+### Praktikum 2
+
+#### Blog Page
+![ss](docs/img/p2blog.png)
+
+#### First Blog Page
+![ss](docs/img/p2firstblog.png)
+
+#### Second Blog Page
+![ss](docs/img/p2secondblog.png)
+
+***Kekurangan***
+
+Jika menggunakan konsep routing seperti praktikum 2, struktur folder menjadi kaku sehingga sulit diubah seiring perubahan aplikasi, selain itu jika ada perubahan struktur routing bisa jadi rumit dan memakan waktu yang banyak.
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
