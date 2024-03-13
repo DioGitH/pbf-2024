@@ -10,3 +10,4 @@
 - ### [Pertemuan 2](https://github.com/DioGitH/pbf-2024/tree/main/pertemuan-02)
 - ### [Pertemuan 3](https://github.com/DioGitH/pbf-2024/tree/main/pertemuan-03)
 - ### [Pertemuan 4](https://github.com/DioGitH/pbf-2024/tree/main/pertemuan-04)
+- ### [Pertemuan 5](https://github.com/DioGitH/pbf-2024/tree/main/pertemuan-05)
