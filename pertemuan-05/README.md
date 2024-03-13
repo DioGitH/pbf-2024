@@ -50,6 +50,20 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 
 Jika menggunakan konsep routing seperti praktikum 2, struktur folder menjadi kaku sehingga sulit diubah seiring perubahan aplikasi, selain itu jika ada perubahan struktur routing bisa jadi rumit dan memakan waktu yang banyak.
 
+### Praktikum 3
+
+#### Langkah 1
+![ss](docs/img/p3l1.png)
+
+#### Langkah 2
+![ss](docs/img/p3l2.png)
+
+#### Todo 1
+![ss](docs/img/p3todo1.gif)
+
+#### Todo 2
+![ss](docs/img/p3todo2.gif)
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
