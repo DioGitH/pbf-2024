@@ -56,6 +56,23 @@ Bootstrap berhasil diterapkan dan class yang disediakan oleh bootstrap dapat dip
 ![ss](docs/img/p2s2err2.png)
 ![ss](docs/img/p2s2err3.png)
 
+### Praktikum 3
+
+#### Langkah 1
+![ss](docs/img/p3ss1.png)
+
+#### Langkah 2
+![ss](docs/img/p3ss2.png)
+
+#### Langkah 3
+![ss](docs/img/p3ss3.png)
+
+#### Hasil
+![ss](docs/img/p3hasil.gif)
+
+### Tugas Pertanyaan
+
+
 
 ## Contact Me
 
