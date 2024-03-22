@@ -34,6 +34,29 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 
 Bootstrap berhasil diterapkan dan class yang disediakan oleh bootstrap dapat dipakai pada nextJs dengan mengikuti langkah-langkah yang telah dijelaskan.
 
+### Praktikum 2
+
+#### Langkah 1
+![ss](docs/img/p2ss1.png)
+
+#### Langkah 2
+![ss](docs/img/p2ss2.png)
+
+#### Langkah 3
+![ss](docs/img/p2ss3.png)
+
+#### Langkah 4
+![ss](docs/img/p2ss4.png)
+
+#### Soal 1
+![ss](docs/img/p2hasil.gif)
+
+#### Soal 2
+![ss](docs/img/p2s2err1.png)
+![ss](docs/img/p2s2err2.png)
+![ss](docs/img/p2s2err3.png)
+
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
