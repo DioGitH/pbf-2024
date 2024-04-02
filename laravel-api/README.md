@@ -63,6 +63,33 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 #### Langkah 4
 ![ss](docs/img/p3ss4.png)
 
+### Tutorial 4
+
+#### Langkah 1
+![ss](docs/img/p4ss11.png)
+
+![ss](docs/img/p4ss12.png)
+
+![ss](docs/img/p4ss13.png)
+
+![ss](docs/img/p4ss14.png)
+
+![ss](docs/img/p4ss15.png)
+
+![ss](docs/img/p4ss16.png)
+
+#### Langkah 2
+
+***Pesan error***
+![ss](docs/img/p4ss2.png)
+
+***Setelah Berhasil***
+![ss](docs/img/p4ss3.png)
+
+![ss](docs/img/p4ss4.png)
+
+
+
 
 ## Contact Me
 
