@@ -18,6 +18,31 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 
 ## Documentation
 
+### Tutorial 1
+
+#### Langkah 1
+![ss1](docs/img/p1ss1.png)
+
+#### Langkah 2
+![ss](docs/img/p1ss2.png)
+
+#### Langkah 3
+![ss](docs/img/p1ss3.png)
+
+#### Langkah 4
+![ss](docs/img/p1ss4.png)
+
+#### Langkah 5
+![ss](docs/img/p1ss5.png)
+
+#### Langkah 6
+![ss](docs/img/p1ss6.png)
+
+#### Langkah 7
+![ss](docs/img/p1ss7.png)
+
+
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
