@@ -156,6 +156,17 @@ Menambahkan kode dibawah ini pada PostController
 ![ss](docs/img/p6ss1.png)
 ![ss](docs/img/p6ss2.png)
 
+### Tutorial 7
+
+#### Langkah 1
+![ss](docs/img/p7ss1.png)
+
+***Hasil***
+![ss](docs/img/p7ss2.png)
+
+Database kosong kembali karena data telah berhasil dihapus
+![ss](docs/img/p7ss3.png)
+
 
 
 
