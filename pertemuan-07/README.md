@@ -18,6 +18,56 @@ I'm Maulidio Farhan Rizkullah with student ID 2141720041. I'm currently study in
 
 ## Documentation
 
+### Praktikum 1
+
+#### Langkah 1
+![ss](docs/img/p1l1.png)
+
+#### Langkah 2
+![ss](docs/img/p1l2.png)
+
+#### Langkah 3
+![ss](docs/img/p1l3.png)
+
+![ss](docs/img/p1l3-1.png)
+
+![ss](docs/img/p1l3-2.png)
+
+#### Langkah 4
+![ss](docs/img/p1l4.png)
+
+Pada kode diatas komponen templates main_page memanggil komponen heading dengan level heading yang berbeda beda, section pada komponen atoms digunakan untuk membungkus komponen heading 
+
+#### Langkah 5.1
+![ss](docs/img/p1l5.1.png)
+
+#### Langkah 5.2
+![ss](docs/img/p1l5.2.png)
+
+![ss](docs/img/p1l5.2-1.png)
+
+#### Langkah 5.3
+![ss](docs/img/p1l5.3error.png)
+
+Error terjadi karena react membutuhkan `"use client"`
+
+![ss](docs/img/p1l5.3hasil.png)
+
+Level context yang pada sebelumnya harus di tempatkan di heading 1 per 1, sekarang dapat ditempatkan pada Section menggunakan LevelContext sehingga Heading membaca LevelContext dari Section parent 
+
+#### Langkah 6
+![ss](docs/img/p1l6.png)
+
+![ss](docs/img/p1l6-1.png)
+
+![ss](docs/img/p1l6-2.png)
+
+***Hasil***
+![ss](docs/img/p1l6hasil.png)
+
+Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih simple karena LevelContext otomatis mendeteksi level dari parent nya, sehingga jika ada Section di dalam Section, otomatis Level parent bertambah 1 dari level sebelumnya
+
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
