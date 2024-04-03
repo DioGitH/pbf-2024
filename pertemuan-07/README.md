@@ -113,6 +113,12 @@ Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih
 ***Hasil***
 ![ss](docs/img/p3l5hasil.gif)
 
+#### Soal 
+
+***Hasil***
+![ss](docs/img/p3soal.gif)
+
+
 
 
 
