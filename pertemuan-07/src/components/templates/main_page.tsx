@@ -1,10 +1,12 @@
 import Heading from "../atoms/heading";
+import Post from "../atoms/post";
 import Section from "../atoms/section";
 
 export default function MainPage() {
     return (
         <Section>
             <Heading>Title</Heading>
+            <Post title="Maulidio Farhan Rizkullah" body="2141720041" />
             <Section>
                 <Heading>Heading</Heading>
                 <Heading>Heading</Heading>
