@@ -91,6 +91,30 @@ Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih
 ***Soal***
 ![ss](docs/img/p2soal.png)
 
+### Praktikum 3
+
+#### Langkah 1
+![ss](docs/img/p3l1.png)
+
+![ss](docs/img/p3l1-1.png)
+
+#### Langkah 2
+![ss](docs/img/p3l2.png)
+
+#### Langkah 3
+![ss](docs/img/p3l3.png)
+
+#### Langkah 4
+![ss](docs/img/p3l4.png)
+
+#### Langkah 5
+![ss](docs/img/p3l5.png)
+
+***Hasil***
+![ss](docs/img/p3l5hasil.gif)
+
+
+
 
 
 
