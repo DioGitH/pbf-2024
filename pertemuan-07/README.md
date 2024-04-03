@@ -67,6 +67,33 @@ Level context yang pada sebelumnya harus di tempatkan di heading 1 per 1, sekara
 
 Untuk tampilan sama seperti sebelumnya, tetapi dalam penerapan nya menjadi lebih simple karena LevelContext otomatis mendeteksi level dari parent nya, sehingga jika ada Section di dalam Section, otomatis Level parent bertambah 1 dari level sebelumnya
 
+### Praktikum 2
+
+#### Langkah 1
+![ss](docs/img/p2l1.png)
+
+![ss](docs/img/p2l1-1.png)
+
+![ss](docs/img/p2l1-2.png)
+
+![ss](docs/img/p2l1-3.png)
+
+![ss](docs/img/p2l1-4.png)
+
+#### Langkah 2
+![ss](docs/img/p2l2.png)
+
+![ss](docs/img/p2l2-1.png)
+
+***Hasil***
+![ss](docs/img/p2hasil.png)
+
+***Soal***
+![ss](docs/img/p2soal.png)
+
+
+
+
 
 ## Contact Me
 
